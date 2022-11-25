@@ -1,1 +1,1 @@
-# Nnetflix-clone-project
+# Netflix-clone-project
