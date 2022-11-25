@@ -102,12 +102,12 @@ header {
   width: 300px;
 }
 
-#languages {
+.languages {
   display: flex;
   margin-left: auto;
 }
 
-#languages select {
+.languages select {
   background-color: transparent;
   color: white;
   width: 90px;
@@ -115,7 +115,7 @@ header {
   padding: 6px 11px;
 }
 
-#languages option {
+.languages option {
   background-color: gray;
 }
 
@@ -203,7 +203,7 @@ header {
   height: 70px;
 }
 
-#gif {
+.gif {
   padding: 10px;
   padding-left: 40px;
 }
@@ -277,7 +277,7 @@ header {
 
 .section-6 {
   color: white;
-  height: 90%
+  height: 90%;
 }
 
 .header-6 {
@@ -343,7 +343,7 @@ header {
   font-size: 15px;
 }
 
-#languages2 select {
+.languages2 select {
   background-color: transparent;
   color: white;
   width: 90px;
@@ -351,11 +351,11 @@ header {
   padding: 6px 11px;
 }
 
-#languages2 option {
+.languages2 option {
   background-color: gray;
 }
 
-#languages2 {
+.languages2 {
   position: absolute;
   left: 300px;
 }
